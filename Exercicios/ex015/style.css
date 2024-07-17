@@ -1,0 +1,28 @@
+@charset "UTF-8";
+*{
+    
+}
+body{
+    background-image: linear-gradient(to right, #60AEBF, #BDF2E8, #1C4036 98%);
+    font-family:'Times New Roman', Times, serif
+    font-size: 35px;
+    
+}
+
+h1{
+    color: rgb(137, 30, 30);
+    text-align: center;
+    font-size: 45px;
+}
+
+h2{
+    color: indigo;
+    text-align: center;
+    font-size: 35px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 23px;
+}
