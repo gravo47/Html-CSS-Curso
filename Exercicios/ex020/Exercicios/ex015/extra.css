@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, #60AEBF, #BDF2E8, #1C4036 98%);
+    font-family:'Times New Roman', Times, serif
+    font-size: 25px;
+}
+h1{
+    color: #6A8C5A;
+}
