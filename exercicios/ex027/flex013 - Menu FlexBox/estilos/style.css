@@ -14,6 +14,21 @@ body {
     width: 100vw;
 }
 
+#burguer {
+    background-color: rgb(57, 56, 56);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#burguer:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
 header {
     background-color: gray;
     color: white;
@@ -26,6 +41,7 @@ header {
 
 header > h1 {
     flex: 0 0 200px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.355);
 }
 
 header > nav {
